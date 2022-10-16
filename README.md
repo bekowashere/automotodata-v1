@@ -40,7 +40,7 @@ clear.sh
 
 # ENDPOINTS
 
-# ACCOUNT
+### ACCOUNT
 
 
 :heavy_check_mark: **[POST]** `api/token/` - *MyTokenObtainPairView*
@@ -48,7 +48,7 @@ clear.sh
 :heavy_check_mark: **[POST]** `api/account/register/customer/` - *CustomerUserRegisterAPIView*
 
 
-# AUTO
+### AUTO
 
 
 :heavy_check_mark: **[GET]** `api/auto/` - *BrandListAPIView*
