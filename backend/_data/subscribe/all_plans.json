@@ -1,0 +1,32 @@
+[
+   {
+    "name": "Free Trial",
+    "slug": "free-trial",
+    "daily_request": 3,
+    "price": 0
+   },
+   {
+    "name": "Bronze",
+    "slug": "bronze",
+    "daily_request": 10,
+    "price": 10
+   },
+   {
+    "name": "Silver",
+    "slug": "silver",
+    "daily_request": 25,
+    "price": 20
+   },
+   {
+    "name": "Gold",
+    "slug": "gold",
+    "daily_request": 50,
+    "price": 30
+   },
+   {
+    "name": "Diamond",
+    "slug": "diamond",
+    "daily_request": null,
+    "price": 50
+   }
+]
