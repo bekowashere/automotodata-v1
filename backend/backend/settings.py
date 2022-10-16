@@ -148,9 +148,9 @@ REST_FRAMEWORK = {
             'account.throttling.SubscriptionDailyRateThrottle'
         ],
     'DEFAULT_THROTTLE_RATES': {
-        'anon': '100/day',
-        'user': '100/day',
-        'subscription': '100/day',
+        'anon': '2/day',
+        'user': '4/day',
+        'subscription': '8/day',
     },
 }
 
